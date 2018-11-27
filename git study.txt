@@ -1,3 +1,0 @@
-git init - repository 생성
-
-branch 작업 분기
